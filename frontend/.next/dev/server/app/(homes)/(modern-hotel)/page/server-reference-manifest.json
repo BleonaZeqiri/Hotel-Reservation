@@ -1,0 +1,20 @@
+{
+  "node": {
+    "608a3160718facf95a6ab022ddd607013ac0901a46": {
+      "workers": {
+        "app/(homes)/(modern-hotel)/page": {
+          "moduleId": "[project]/Desktop/Hotel-Reservation/frontend/.next-internal/server/app/(homes)/(modern-hotel)/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/Hotel-Reservation/frontend/actions/search.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "handleSearch",
+          "filename": "Desktop/Hotel-Reservation/frontend/actions/search.ts"
+        }
+      },
+      "layer": {
+        "app/(homes)/(modern-hotel)/page": "action-browser"
+      },
+      "exportedName": "handleSearch",
+      "filename": "Desktop/Hotel-Reservation/frontend/actions/search.ts"
+    }
+  },
+  "edge": {}
+}
