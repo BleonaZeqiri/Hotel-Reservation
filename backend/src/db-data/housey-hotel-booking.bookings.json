@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "674477a4e29bb7453c35863e",
+    "hotelId": "6722fd9bbf533ecf1e775966",
+    "userId": "6742bac5216ebb36d1eaaa2f",
+    "checkin": "2024-11-28T18:00:00.000Z",
+    "checkout": "2024-11-29T18:00:00.000Z",
+    "adults": 3,
+    "children": 0,
+    "userDetails": {
+      "country": "uk",
+      "fname": "Naim",
+      "lname": "Ahmed",
+      "address": "Dhaka",
+      "email": "naim.themepure@gmail.com",
+      "phone": "01627815507"
+    }
+  },
+  {
+    "_id": "674d48ce17dafe1841d43cff",
+    "hotelId": "6722f4c2bf533ecf1e77595e",
+    "userId": "6742bac5216ebb36d1eaaa2f",
+    "checkin": "2024-12-01T18:00:00.000Z",
+    "checkout": "2024-12-02T18:00:00.000Z",
+    "adults": 1,
+    "children": 0,
+    "userDetails": {
+      "fname": "Naim",
+      "email": "naim.themepure@gmail.com",
+      "country": "AF",
+      "lname": "García Flores",
+      "address": "Dhaka",
+      "phone": "01627815507"
+    }
+  }
+]

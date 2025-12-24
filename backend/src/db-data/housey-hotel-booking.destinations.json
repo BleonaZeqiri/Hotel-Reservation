@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "6725b87efde8824654c5890b",
+    "name": "Dubai",
+    "description": "A dazzling city of innovation and tradition, Dubai offers a unique blend of modern skyscrapers, luxury shopping, and vibrant cultural heritage.",
+    "image": "https://i.ibb.co.com/3kQN9MN/01.jpg",
+    "hotels": []
+  },
+  {
+    "_id": "6725b8b0fde8824654c5890d",
+    "name": "Paris",
+    "description": "Known as the 'City of Light', Paris is renowned for its art, fashion, gastronomy, and culture, attracting millions of visitors each year.",
+    "image": "https://i.ibb.co.com/Y2PK8BL/02.jpg",
+    "hotels": []
+  },
+  {
+    "_id": "6725b8d5fde8824654c5890f",
+    "name": "Nevada",
+    "description": "Home to the bustling city of Las Vegas and beautiful desert landscapes, Nevada offers excitement and scenic natural wonders.",
+    "image": "https://i.ibb.co.com/ZYVtq97/03.jpg",
+    "hotels": []
+  },
+  {
+    "_id": "6725b90cfde8824654c58911",
+    "name": "Poland",
+    "description": "Poland is a country rich in history and culture, featuring medieval castles, vibrant cities, and stunning countryside.",
+    "image": "https://i.ibb.co.com/cTZ3DgT/04.jpg",
+    "hotels": []
+  },
+  {
+    "_id": "6725b930fde8824654c58913",
+    "name": "Thailand",
+    "description": "A tropical paradise, Thailand is known for its beautiful beaches, ornate temples, delicious cuisine, and warm hospitality.",
+    "image": "https://i.ibb.co.com/GsB3fgc/05.jpg",
+    "hotels": []
+  },
+  {
+    "_id": "6725b94afde8824654c58915",
+    "name": "New York",
+    "description": "The city that never sleeps, New York is a cultural and financial hub with iconic landmarks, world-class museums, and endless entertainment.",
+    "image": "https://i.ibb.co.com/xqW4zS4/06.jpg",
+    "hotels": []
+  },
+  {
+    "_id": "6725b965fde8824654c58917",
+    "name": "Tokyo",
+    "description": "Tokyo blends traditional temples with futuristic technology, offering an exciting experience with its food, shopping, and pop culture.",
+    "image": "https://i.ibb.co.com/WtgD2mW/07.jpg",
+    "hotels": []
+  },
+  {
+    "_id": "6725b990fde8824654c58919",
+    "name": "Sydney",
+    "description": "Sydney is famous for its stunning harbor, beautiful beaches, and iconic landmarks like the Opera House and Sydney Harbour Bridge.",
+    "image": "https://i.ibb.co.com/v37q0JX/08.jpg",
+    "hotels": []
+  }
+]

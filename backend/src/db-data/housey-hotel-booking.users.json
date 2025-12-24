@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "673f1f553e492999238a1cb5",
+    "username": "Naim",
+    "email": "na2359034@gmail.com",
+    "role": "user",
+    "password": "$2b$10$982n6z/MZsqdo6ZQj1HC5uuJCCfAlO8JM05ZyE3J1sLbUhEVH53IK",
+    "emailVerified": true
+  },
+  {
+    "_id": "6742bac5216ebb36d1eaaa2f",
+    "username": "Naim",
+    "email": "naim.themepure@gmail.com",
+    "role": "user",
+    "password": "$2b$10$9NOaeWDPm1psgq8LT2Hj8uS.TNW2TdFD3n3gc9bZaR0o56rXQjyHa",
+    "emailVerified": true
+  }
+]

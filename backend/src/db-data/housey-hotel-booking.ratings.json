@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "6745511d89052320e498bcd9",
+    "hotelId": "6722fcabbf533ecf1e775964",
+    "averageRatings": {
+      "staff": 4.5,
+      "cleanliness": 5,
+      "checkIn": 5
+    },
+    "totalReviews": 1
+  },
+  {
+    "_id": "6745622dd92f02e59cddabfe",
+    "hotelId": "6722f4c2bf533ecf1e77595e",
+    "averageRatings": {
+      "staff": 2,
+      "cleanliness": 1.5,
+      "checkIn": 3
+    },
+    "totalReviews": 1
+  }
+]

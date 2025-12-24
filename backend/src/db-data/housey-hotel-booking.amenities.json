@@ -1,0 +1,28 @@
+[{
+  "_id":"6720c3ff04bfacddad5528c7",
+  "name": "Amidst Nature",
+  "instructions": "Enjoy the scenic views and peaceful environment.",
+  "hours": "6:00 AM - 8:00 PM",
+  "image": "https://i.ibb.co.com/XJhHYx8/03.jpg"
+},
+{
+  "_id":"6720c46b04bfacddad5528c9",
+  "name": "Swimming Pool",
+  "instructions": "Always use the clothes that are swimming pool friendly.",
+  "hours": "8 AM to 8 PM",
+  "image": "https://i.ibb.co.com/S3TGX1n/02.jpg"
+},
+{
+  "_id": "6720c4bf04bfacddad5528cb",
+  "name": "Bus Transfer",
+  "instructions": "Please be ready at the pickup point 15 minutes before departure.",
+  "hours": "Available 24/7 upon request",
+  "image": "https://i.ibb.co.com/v4hgpw6/04.jpg"
+},
+{
+  "_id":"6720c51204bfacddad5528cd",
+  "name": "Under Protection",
+  "instructions": "This area is monitored 24/7 by security personnel. Please contact reception for assistance.",
+  "hours": "Available 24/7",
+  "image": "https://i.ibb.co.com/t3vDYJn/01.jpg"
+}]

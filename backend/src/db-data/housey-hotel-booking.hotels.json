@@ -1,0 +1,444 @@
+[
+  {
+    "_id": "6722f4c2bf533ecf1e77595e",
+    "name": "Deluxe room",
+    "category": "Luxury",
+    "address": "Strada Provinciale 215",
+    "city": "Puglia",
+    "countryCode": "IT",
+    "highRate": 1705,
+    "lowRate": 1535,
+    "location": {
+      "latitude": 37.61309,
+      "longitude": -132.33788
+    },
+    "propertyCategory": 5,
+    "shortDescription": "Holiday villa in the heart of Salento, just a stone's throw from the sea! Enjoy an unforgettable experience with outdoor furniture, a shower, and a BBQ.",
+    "thumbNailUrl": "https://i.ibb.co.com/Q8RHJ0p/01.jpg",
+    "gallery": [
+      "https://i.ibb.co.com/t4jy0pp/hotel-gallery-1.webp",
+      "https://i.ibb.co.com/wKh5Sz7/hotel-gallery-2.webp",
+      "https://i.ibb.co.com/xsZmGjw/hotel-gallery-3.webp",
+      "https://i.ibb.co.com/vkdZ0M2/hotel-gallery-4.webp",
+      "https://i.ibb.co.com/FzvPGps/hotel-gallery-5.webp"
+    ],
+    "overview": "This luxurious villa offers a serene escape, with comfortable accommodations, modern amenities, and breathtaking sea views. Nestled in the vibrant Salento region, Charme Villa provides a perfect base to explore local culture, dining, and beachside relaxation.",
+    "amenities": [
+      "6720c3ff04bfacddad5528c7",
+      "6720c46b04bfacddad5528c9",
+      "6720c4bf04bfacddad5528cb",
+      "6720c51204bfacddad5528cd"
+    ],
+    "sqFt": 2500,
+    "beds": 4,
+    "bathrooms": 3,
+    "adults": 8,
+    "children": 2,
+    "destination":"6725b87efde8824654c5890b"
+  },
+  {
+    "_id":"6722f5a4bf533ecf1e775960",
+    "name": "Luxury Suite",
+    "category": "Luxury",
+    "address": "Via Del Corso 123",
+    "city": "Rome",
+    "countryCode": "IT",
+    "highRate": 2500,
+    "lowRate": 2200,
+    "location": {
+      "latitude": 41.9028,
+      "longitude": 12.4964
+    },
+    "propertyCategory": 5,
+    "shortDescription": "Experience ultimate luxury in the heart of Rome with an exclusive private spa, infinity pool, and panoramic city views.",
+    "thumbNailUrl": "https://i.ibb.co.com/0CbHGCY/02.jpg",
+    "gallery": [
+      "https://i.ibb.co.com/t4jy0pp/hotel-gallery-1.webp",
+      "https://i.ibb.co.com/wKh5Sz7/hotel-gallery-2.webp",
+      "https://i.ibb.co.com/xsZmGjw/hotel-gallery-3.webp",
+      "https://i.ibb.co.com/vkdZ0M2/hotel-gallery-4.webp",
+      "https://i.ibb.co.com/FzvPGps/hotel-gallery-5.webp"
+    ],
+    "overview": "This opulent suite combines sophisticated design with modern amenities. Featuring an infinity pool, private spa, and exclusive concierge service, this suite provides a lavish getaway for discerning travelers.",
+    "amenities": [
+      "6720c3ff04bfacddad5528c7",
+      "6720c46b04bfacddad5528c9",
+      "6720c4bf04bfacddad5528cb",
+      "6720c51204bfacddad5528cd"
+    ],
+    "sqFt": 4000,
+    "beds": 5,
+    "bathrooms": 4,
+    "adults": 10,
+    "children": 2,
+    "destination":"6725b8b0fde8824654c5890d"
+  },
+  {
+    "_id":"6722f638bf533ecf1e775962",
+    "name": "Classic Room",
+    "category": "Classic",
+    "address": "Piazza Della Signoria 10",
+    "city": "Florence",
+    "countryCode": "IT",
+    "highRate": 400,
+    "lowRate": 350,
+    "location": {
+      "latitude": 43.7696,
+      "longitude": 11.2558
+    },
+    "propertyCategory": 3,
+    "shortDescription": "A charming classic room in the heart of Florence, close to historic landmarks and vibrant markets.",
+    "thumbNailUrl": "https://i.ibb.co.com/C9Dg3F0/03.jpg",
+    "gallery": [
+      "https://i.ibb.co.com/t4jy0pp/hotel-gallery-1.webp",
+      "https://i.ibb.co.com/wKh5Sz7/hotel-gallery-2.webp",
+      "https://i.ibb.co.com/xsZmGjw/hotel-gallery-3.webp",
+      "https://i.ibb.co.com/vkdZ0M2/hotel-gallery-4.webp",
+      "https://i.ibb.co.com/FzvPGps/hotel-gallery-5.webp"
+    ],
+    "overview": "This cozy room offers a classic ambiance with easy access to Florence's top attractions. Perfect for travelers seeking comfort and convenience.",
+    "amenities": [
+      "6720c3ff04bfacddad5528c7",
+      "6720c46b04bfacddad5528c9"
+    ],
+    "sqFt": 800,
+    "beds": 1,
+    "bathrooms": 1,
+    "adults": 2,
+    "children": 0,
+    "destination":"6725b8d5fde8824654c5890f"
+  },
+  {
+    "_id":"6722fcabbf533ecf1e775964",
+    "name": "Business Class Room",
+    "category": "Modern",
+    "address": "123 Financial District Blvd",
+    "city": "New York",
+    "countryCode": "US",
+    "highRate": 850,
+    "lowRate": 750,
+    "location": {
+      "latitude": 40.7128,
+      "longitude": -74.006
+    },
+    "propertyCategory": 4,
+    "shortDescription": "Perfect for business travelers, offering modern workspaces, high-speed internet, and easy access to business hubs.",
+    "thumbNailUrl": "https://i.ibb.co.com/265SBS5/04.jpg",
+    "gallery": [
+      "https://i.ibb.co.com/t4jy0pp/hotel-gallery-1.webp",
+      "https://i.ibb.co.com/wKh5Sz7/hotel-gallery-2.webp",
+      "https://i.ibb.co.com/xsZmGjw/hotel-gallery-3.webp",
+      "https://i.ibb.co.com/vkdZ0M2/hotel-gallery-4.webp",
+      "https://i.ibb.co.com/FzvPGps/hotel-gallery-5.webp"
+    ],
+    "overview": "The Business Class Room combines comfort with productivity, featuring ergonomic furnishings, a large desk, and essential amenities. Ideal for professionals traveling on business.",
+    "amenities": [
+      "6720c3ff04bfacddad5528c7",
+      "6720c46b04bfacddad5528c9",
+      "6720c4bf04bfacddad5528cb",
+      "6720c51204bfacddad5528cd"
+    ],
+    "sqFt": 1200,
+    "beds": 1,
+    "bathrooms": 1,
+    "adults": 2,
+    "children": 0,
+    "destination":"6725b90cfde8824654c58911"
+  },
+  {
+    "_id":"6722fd9bbf533ecf1e775966",
+    "name": "Superior Ocean Room",
+    "category": "Modern",
+    "address": "456 Ocean View Dr",
+    "city": "Miami",
+    "countryCode": "US",
+    "highRate": 1200,
+    "lowRate": 1050,
+    "location": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "propertyCategory": 5,
+    "shortDescription": "Luxurious oceanfront room with panoramic views, ideal for relaxation and beach access.",
+    "thumbNailUrl": "https://i.ibb.co.com/SKsYRrT/05.jpg",
+    "gallery": [
+      "https://i.ibb.co.com/t4jy0pp/hotel-gallery-1.webp",
+      "https://i.ibb.co.com/wKh5Sz7/hotel-gallery-2.webp",
+      "https://i.ibb.co.com/xsZmGjw/hotel-gallery-3.webp",
+      "https://i.ibb.co.com/vkdZ0M2/hotel-gallery-4.webp",
+      "https://i.ibb.co.com/FzvPGps/hotel-gallery-5.webp"
+    ],
+    "overview": "This Superior Ocean Room offers a breathtaking view of the ocean with a private balcony, exclusive amenities, and a serene atmosphere. Ideal for guests seeking a luxurious beachfront stay.",
+    "amenities": [
+      "6720c3ff04bfacddad5528c7",
+      "6720c46b04bfacddad5528c9",
+      "6720c4bf04bfacddad5528cb",
+      "6720c51204bfacddad5528cd"
+    ],
+    "sqFt": 2000,
+    "beds": 2,
+    "bathrooms": 2,
+    "adults": 4,
+    "children": 2,
+    "destination":"6725b930fde8824654c58913"
+  },
+  {
+    "_id":"6722fe4ebf533ecf1e775968",
+    "name": "Royal Class Room",
+    "category": "Luxury",
+    "address": "789 Palace Avenue",
+    "city": "Dubai",
+    "countryCode": "AE",
+    "highRate": 2500,
+    "lowRate": 2200,
+    "location": {
+      "latitude": 25.2048,
+      "longitude": 55.2708
+    },
+    "propertyCategory": 4,
+    "shortDescription": "Experience unparalleled luxury in the Royal Class Room with private butler service, marble interiors, and expansive views of the skyline.",
+    "thumbNailUrl": "https://i.ibb.co.com/fM4L0Mr/06.jpg",
+    "gallery": [
+      "https://i.ibb.co.com/t4jy0pp/hotel-gallery-1.webp",
+      "https://i.ibb.co.com/wKh5Sz7/hotel-gallery-2.webp",
+      "https://i.ibb.co.com/xsZmGjw/hotel-gallery-3.webp",
+      "https://i.ibb.co.com/vkdZ0M2/hotel-gallery-4.webp",
+      "https://i.ibb.co.com/FzvPGps/hotel-gallery-5.webp"
+    ],
+    "overview": "The Royal Class Room is a true symbol of opulence, featuring a grand space adorned with handcrafted furnishings, a private jacuzzi, and exclusive VIP amenities. Guests enjoy personal butler service, in-room dining, and a luxury spa experience tailored for royalty.",
+    "amenities": [
+      "6720c3ff04bfacddad5528c7",
+      "6720c46b04bfacddad5528c9",
+      "6720c4bf04bfacddad5528cb",
+      "6720c51204bfacddad5528cd"
+    ],
+    "sqFt": 3500,
+    "beds": 3,
+    "bathrooms": 3,
+    "adults": 6,
+    "children": 2,
+    "destination":"6725b94afde8824654c58915"
+  },
+  {
+    "_id":"672706004c2d55cee68619ae",
+    "name": "Day City View",
+    "category": "Luxury",
+    "address": "45 Skyline Boulevard",
+    "city": "New York",
+    "countryCode": "US",
+    "highRate": 1800,
+    "lowRate": 1500,
+    "location": {
+      "latitude": 40.7128,
+      "longitude": -74.006
+    },
+    "destination":"6725b965fde8824654c58917",
+    "propertyCategory": 5,
+    "shortDescription": "Enjoy breathtaking cityscape views in the Day City View room, complete with modern amenities and prime access to New York's attractions.",
+    "thumbNailUrl": "https://i.ibb.co.com/tZ4yDVz/01.jpg",
+    "gallery": [
+      "https://i.ibb.co.com/t4jy0pp/hotel-gallery-1.webp",
+      "https://i.ibb.co.com/wKh5Sz7/hotel-gallery-2.webp",
+      "https://i.ibb.co.com/xsZmGjw/hotel-gallery-3.webp",
+      "https://i.ibb.co.com/vkdZ0M2/hotel-gallery-4.webp",
+      "https://i.ibb.co.com/FzvPGps/hotel-gallery-5.webp"
+    ],
+    "overview": "The Day City View room offers an unparalleled city experience, with floor-to-ceiling windows, a comfortable work area, and a cozy lounge for unwinding after a day in the bustling city. Perfect for both leisure and business travelers, this room blends convenience with style.",
+    "amenities": [
+      "6720c3ff04bfacddad5528c7",
+      "6720c46b04bfacddad5528c9",
+      "6720c4bf04bfacddad5528cb",
+      "6720c51204bfacddad5528cd"
+    ],
+    "sqFt": 1200,
+    "beds": 2,
+    "bathrooms": 2,
+    "adults": 4,
+    "children": 1
+  },
+  {
+    "_id":"672708e5a2eb809d2e3d071e",
+    "name": "Summer in London",
+    "category": "Modern",
+    "address": "22 Baker Street",
+    "city": "London",
+    "countryCode": "GB",
+    "highRate": 1350,
+    "lowRate": 1100,
+    "location": {
+      "latitude": 51.5074,
+      "longitude": -0.1278
+    },
+    "destination":"6725b87efde8824654c5890b",
+    "propertyCategory": 4,
+    "shortDescription": "Experience the charm of London in this central hotel, perfect for exploring the city and enjoying summer vibes.",
+    "thumbNailUrl": "https://i.ibb.co.com/s5ZXWzz/02.jpg",
+    "gallery": [
+      "https://i.ibb.co.com/t4jy0pp/hotel-gallery-1.webp",
+      "https://i.ibb.co.com/wKh5Sz7/hotel-gallery-2.webp",
+      "https://i.ibb.co.com/xsZmGjw/hotel-gallery-3.webp",
+      "https://i.ibb.co.com/vkdZ0M2/hotel-gallery-4.webp",
+      "https://i.ibb.co.com/FzvPGps/hotel-gallery-5.webp"
+    ],
+    "overview": "Located in the heart of London, the 'Summer in London' hotel offers a blend of modern luxury and classic British charm. This hotel features spacious rooms with stylish decor, perfect for both tourists and business travelers. Enjoy easy access to iconic attractions like the British Museum and the London Eye.",
+    "amenities": [
+      "6720c3ff04bfacddad5528c7",
+      "6720c46b04bfacddad5528c9",
+      "6720c4bf04bfacddad5528cb",
+      "6720c51204bfacddad5528cd"
+    ],
+    "sqFt": 1500,
+    "beds": 2,
+    "bathrooms": 2,
+    "adults": 3,
+    "children": 1
+  },
+  {
+    "_id":"67270ab0a2eb809d2e3d0720",
+    "name": "Cristales River Trip",
+    "category": "Luxury",
+    "address": "Calle 10, Meta",
+    "city": "La Macarena",
+    "countryCode": "CO",
+    "highRate": 1600,
+    "lowRate": 1200,
+    "location": {
+      "latitude": 2.1828,
+      "longitude": -73.7874
+    },
+    "destination": "6725b990fde8824654c58919",
+    "propertyCategory": 5,
+    "shortDescription": "Immerse yourself in Colombia’s natural beauty with a stay at Cristales River Trip, near the vibrant Caño Cristales River.",
+    "thumbNailUrl": "https://i.ibb.co.com/YX8xdhY/03.jpg",
+    "gallery": [
+      "https://i.ibb.co.com/t4jy0pp/hotel-gallery-1.webp",
+      "https://i.ibb.co.com/wKh5Sz7/hotel-gallery-2.webp",
+      "https://i.ibb.co.com/xsZmGjw/hotel-gallery-3.webp",
+      "https://i.ibb.co.com/vkdZ0M2/hotel-gallery-4.webp",
+      "https://i.ibb.co.com/FzvPGps/hotel-gallery-5.webp"
+    ],
+    "overview": "Cristales River Trip offers an unforgettable experience close to Caño Cristales, known as the 'River of Five Colors.' Enjoy breathtaking views, guided excursions, and luxury accommodations in the heart of Colombia’s lush landscapes. Perfect for adventurers and nature enthusiasts alike.",
+    "amenities": [
+      "6720c3ff04bfacddad5528c7",
+      "6720c46b04bfacddad5528c9",
+      "6720c4bf04bfacddad5528cb",
+      "6720c51204bfacddad5528cd"
+    ],
+    "sqFt": 1800,
+    "beds": 3,
+    "bathrooms": 2,
+    "adults": 5,
+    "children": 2
+  },
+  {
+    "_id":"67270bbca2eb809d2e3d0722",
+    "name": "Sancho's Beach Club",
+    "category": "Modern",
+    "address": "123 Beachfront Road",
+    "city": "Tulum",
+    "countryCode": "MX",
+    "highRate": 1400,
+    "lowRate": 900,
+    "location": {
+      "latitude": 20.2117,
+      "longitude": -87.4656
+    },
+    "destination":"6725b87efde8824654c5890b",
+    "propertyCategory": 4,
+    "shortDescription": "Relax at Sancho's Beach Club, a tropical paradise with private cabanas, vibrant nightlife, and stunning ocean views in Tulum.",
+    "thumbNailUrl": "https://i.ibb.co.com/7j4vf66/04.jpg",
+    "gallery": [
+      "https://i.ibb.co.com/t4jy0pp/hotel-gallery-1.webp",
+      "https://i.ibb.co.com/wKh5Sz7/hotel-gallery-2.webp",
+      "https://i.ibb.co.com/xsZmGjw/hotel-gallery-3.webp",
+      "https://i.ibb.co.com/vkdZ0M2/hotel-gallery-4.webp",
+      "https://i.ibb.co.com/FzvPGps/hotel-gallery-5.webp"
+    ],
+    "overview": "Sancho's Beach Club offers an exquisite beachside experience in Tulum. Perfect for travelers seeking a mix of relaxation and excitement, this resort provides premium services, including oceanfront dining, luxury spa treatments, and private cabanas. Join us to experience the ultimate beachfront escape.",
+    "amenities": [
+      "6720c3ff04bfacddad5528c7",
+      "6720c46b04bfacddad5528c9",
+      "6720c4bf04bfacddad5528cb",
+      "6720c51204bfacddad5528cd"
+    ],
+    "sqFt": 2200,
+    "beds": 2,
+    "bathrooms": 2,
+    "adults": 4,
+    "children": 1
+  },
+  {
+    "_id":"67270d53a2eb809d2e3d0724",
+    "name": "Tour of Mont Blanc",
+    "category": "Luxury",
+    "address": "Mont Blanc Road, Chamonix",
+    "city": "Chamonix",
+    "countryCode": "FR",
+    "highRate": 1800,
+    "lowRate": 1250,
+    "location": {
+      "latitude": 45.9237,
+      "longitude": 6.8694
+    },
+    "destination":"6725b8b0fde8824654c5890d",
+    "propertyCategory": 5,
+    "shortDescription": "Experience the grandeur of Mont Blanc with alpine luxury, panoramic views, and the perfect base for exploring the mountains.",
+    "thumbNailUrl": "https://i.ibb.co.com/BLY3qDj/05.jpg",
+    "gallery": [
+      "https://i.ibb.co.com/t4jy0pp/hotel-gallery-1.webp",
+      "https://i.ibb.co.com/wKh5Sz7/hotel-gallery-2.webp",
+      "https://i.ibb.co.com/xsZmGjw/hotel-gallery-3.webp",
+      "https://i.ibb.co.com/vkdZ0M2/hotel-gallery-4.webp",
+      "https://i.ibb.co.com/FzvPGps/hotel-gallery-5.webp"
+    ],
+    "overview": "The Tour of Mont Blanc hotel offers an unparalleled alpine experience, with luxurious rooms, a serene spa, and direct access to some of Europe’s most iconic hiking trails. Nestled in the heart of the Alps, it provides the ultimate retreat for adventurers and nature lovers alike.",
+    "amenities": [
+      "6720c3ff04bfacddad5528c7",
+      "6720c46b04bfacddad5528c9",
+      "6720c4bf04bfacddad5528cb",
+      "6720c51204bfacddad5528cd"
+    ],
+    "sqFt": 2800,
+    "beds": 3,
+    "bathrooms": 3,
+    "adults": 6,
+    "children": 2
+  },
+  {
+    "_id":"672712b531bca72f55a7c59a",
+    "name": "Bogota Colombia",
+    "category": "Modern",
+    "address": "Cra 10 #23-60",
+    "city": "Bogota",
+    "countryCode": "CO",
+    "highRate": 850,
+    "lowRate": 600,
+    "location": {
+      "latitude": 4.6097,
+      "longitude": -74.0817
+    },
+    "destination":"6725b87efde8824654c5890b",
+    "propertyCategory": 4,
+    "shortDescription": "An urban retreat in the heart of Bogota, offering contemporary design, premium amenities, and easy access to the city's rich cultural scene.",
+    "thumbNailUrl": "https://i.ibb.co.com/2s29Lb8/06.jpg",
+    "gallery": [
+      "https://i.ibb.co.com/t4jy0pp/hotel-gallery-1.webp",
+      "https://i.ibb.co.com/wKh5Sz7/hotel-gallery-2.webp",
+      "https://i.ibb.co.com/xsZmGjw/hotel-gallery-3.webp",
+      "https://i.ibb.co.com/vkdZ0M2/hotel-gallery-4.webp",
+      "https://i.ibb.co.com/FzvPGps/hotel-gallery-5.webp"
+    ],
+    "overview": "The Bogota Colombia hotel blends luxury with local culture, featuring stylish rooms, a rooftop lounge with city views, and a modern spa. Located near La Candelaria, it's perfect for travelers looking to explore Bogota’s historical sites and vibrant nightlife.",
+    "amenities": [
+      "6720c3ff04bfacddad5528c7",
+      "6720c46b04bfacddad5528c9",
+      "6720c4bf04bfacddad5528cb",
+      "6720c51204bfacddad5528cd"
+    ],
+    "sqFt": 2100,
+    "beds": 2,
+    "bathrooms": 2,
+    "adults": 4,
+    "children": 1
+  }
+]

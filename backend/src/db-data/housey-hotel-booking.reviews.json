@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "6745511d89052320e498bcd6",
+    "userId": "6742bac5216ebb36d1eaaa2f",
+    "hotelId": "6722fcabbf533ecf1e775964",
+    "comment": "Great value for money. Place was clean with everything you need provided.",
+    "ratings": {
+      "staff": 4.5,
+      "cleanliness": 5,
+      "checkIn": 5
+    }
+  },
+  {
+    "_id": "6745622dd92f02e59cddabfb",
+    "userId": "6742bac5216ebb36d1eaaa2f",
+    "hotelId": "6722f4c2bf533ecf1e77595e",
+    "comment": "Great value for money. Place was clean with everything you need provided.",
+    "ratings": {
+      "staff": 2,
+      "cleanliness": 1.5,
+      "checkIn": 3
+    }
+  }
+]
