@@ -10,7 +10,9 @@ export default function RoomDetailsAmenities({ amenities,top_cls=''}: IProps) {
     <div className={`tp-room-about-amenities mb-65 ${top_cls}`}>
       <h2 className="tp-room-details-title mb-30">Amenities</h2>
       <div className="row tp-gx-23">
-        {amenities.map((amenity, i) => (
+        {/* {amenities.map((amenity, i) => ( */}
+        {(amenities ?? []).map((amenity, i) => (
+
           <div key={i} className="col-lg-6 col-md-6">
             <div className="tp-room-about-amenities-item mb-25 d-flex align-items-center">
               {amenity?.image && (
