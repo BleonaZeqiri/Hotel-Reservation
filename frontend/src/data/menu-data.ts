@@ -1,44 +1,7 @@
 import { IMenuItem, IMenuItemTwo } from "@/types/menu-d-t";
 
 const menu_data_one: IMenuItem[] = [
-  {
-    id: 1,
-    label: "Home",
-    url: "/",
-    home_menu: true,
-    submenu: [
-      {
-        id: 1,
-        label: "Modern Hotel",
-        url: "/",
-        img: "/assets/img/menu-demo/demo.jpg",
-      },
-      {
-        id: 2,
-        label: "City Hotel",
-        url: "/city-hotel",
-        img: "/assets/img/menu-demo/demo-2.jpg",
-      },
-      {
-        id: 3,
-        label: "Luxury Hotel",
-        url: "/luxury-hotel",
-        img: "/assets/img/menu-demo/demo-3.jpg",
-      },
-      {
-        id: 4,
-        label: "Modern Resort",
-        url: "/modern-resort",
-        img: "/assets/img/menu-demo/demo-4.jpg",
-      },
-      {
-        id: 5,
-        label: "Sea Hotel",
-        url: "/sea-hotel",
-        img: "/assets/img/menu-demo/demo-5.jpg",
-      },
-    ],
-  },
+  
   { id: 2, label: "About Us", url: "/about" },
   {
     id: 3,
