@@ -16,7 +16,7 @@ export default function AboutAreaFive() {
                             <div className="tp-about-hotel-content">
                                 <div className="tp-about-title-box mb-35">
                                     <span className="tp-about-hotel-subtitle">About Our Hotel</span>
-                                    <h2 className="tp-about-hotel-title mb-15">See Life From A<br /> Different Perspective.</h2>
+                                    <h2 className="tp-about-hotel-title mb-15">See life differently — <br /> surrounded by nature.</h2>
                                     <p>In the morning, you can take a walk in the<br />
                                         fresh air-filled forest or stroll through<br />
                                         the herb garden.</p>
@@ -25,15 +25,16 @@ export default function AboutAreaFive() {
                                     <ul>
                                         <li>
                                             <i className="fa-sharp fa-solid fa-check"></i>
-                                            <span>Dall-E, GPT or Ada</span>
+                                            <span>Mountain views & fresh alpine air
+                                     </span>
                                         </li>
                                         <li>
                                             <i className="fa-sharp fa-solid fa-check"></i>
-                                            <span>Unlimited Generation</span>
+                                            <span>Warm local hospitality</span>
                                         </li>
                                         <li>
                                             <i className="fa-sharp fa-solid fa-check"></i>
-                                            <span>Multilingual</span>
+                                            <span>Ideal for relaxation & nature lovers</span>
                                         </li>
                                     </ul>
                                 </div>

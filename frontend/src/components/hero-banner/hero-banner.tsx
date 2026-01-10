@@ -23,12 +23,12 @@ export default function HeroBanner() {
                   <div className="col-xl-10">
                      <div className="tp-hero-content text-center">
                         <div className="tp-hero-title-box mb-30">
-                           <h5 className="tp-hero-subtitle mb-15 wow img-custom-anim-top" data-wow-duration="1s" data-wow-delay="0.1s">Qetësi • Natyrë • Rehati</h5>
-                           <h2 className="tp-hero-title wow img-custom-anim-top" data-wow-duration="1.5s" data-wow-delay="0.4s">Përjeto magjinë e <br /> Hotel Prevalla</h2>
+                           <h5 className="tp-hero-subtitle mb-15 wow img-custom-anim-top" data-wow-duration="1s" data-wow-delay="0.1s">Calm • Nature • Relax</h5>
+                           <h2 className="tp-hero-title wow img-custom-anim-top" data-wow-duration="1.5s" data-wow-delay="0.4s">Live the magic of <br /> Hotel Prevalla</h2>
                         </div>
                         <div className="tp-hero-btn-box  wow img-custom-anim-top" data-wow-duration="1.5s" data-wow-delay="0.4s">
                            <Link className="tp-btn" href="/about">
-                              <span className="explore-text">Shiko më shumë</span>
+                              <span className="explore-text">Search more</span>
                               <span className="tp-arrow-angle">
                                  {" "}<UpArrow />
                               </span>

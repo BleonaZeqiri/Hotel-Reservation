@@ -16,19 +16,6 @@ type IProps = {
     cls?: string;
 }
 export default function BrandArea({cls='tp-brand-border'}: IProps) {
-    return (
-        <div className={`tp-brand-area ${cls}`}>
-            <div className="swiper-container tp-brand-active">
-                <Marquee className="swiper-wrapper slide-transtion">
-                    {brand_images.map((brand, index) => (
-                        <div key={index} className="swiper-slide">
-                            <div className="tp-brand-item">
-                                <a href="#"><Image src={brand} alt="brands" /></a>
-                            </div>
-                        </div>
-                    ))}
-                </Marquee>
-            </div>
-        </div>
-    )
+    return null; 
+    
 }

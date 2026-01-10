@@ -17,7 +17,7 @@ export default function AboutAreaFour() {
                             <div className="col-lg-8">
                                 <div className="tp-about-top-content mb-50">
                                     <h6 className="tp-about-top-subtitle"><span></span> About us</h6>
-                                    <h2 className="tp-about-top-title">Building your success through our unique <span>story.</span></h2>
+                                    <h2 className="tp-about-top-title">Where nature, comfort, and tradition meet  <span>in harmony.</span></h2>
                                 </div>
                             </div>
                             <div className="col-lg-4">
@@ -26,9 +26,9 @@ export default function AboutAreaFour() {
                                         <Image className="rotate-infinite-2" src={shape} alt="shape" />
                                         <Image className="shape" src={brand} alt="brand" />
                                     </div>
-                                    <p>Welcome to Housey city hotel Times
-                                        Square, a luxury apartments on
-                                        exciting coastline.</p>
+                                    <p>
+                
+                                         Prevalla Hotel welcomes you with comfort inspired by nature.</p>
                                 </div>
                             </div>
                         </div>
@@ -46,7 +46,7 @@ export default function AboutAreaFour() {
                         <div className="col-lg-10">
                             <div className="tp-about-top-content mb-70">
                                 <h6 className="tp-about-top-subtitle"><span></span> About us</h6>
-                                <h2 className="tp-about-top-title tp-about-top-title-2">Symphony of luxury <span>awaits<br /> you </span>at our hotel.!</h2>
+                                <h2 className="tp-about-top-title tp-about-top-title-2">A mountain escape where <span>serenity <br /> feels</span> like home.</h2>
                             </div>
                         </div>
                         <div className="col-lg-2 d-none d-lg-block">
@@ -74,7 +74,7 @@ export default function AboutAreaFour() {
                         </div>
                         <div className="col-lg-6">
                             <div className="tp-about-4-content mb-40">
-                                <p className="mb-90">Hotels aren’t always hip. Hosts aren’t always reliable. So we’re changing the game—with spaces that inspire and delight, that fulfill needs without sacrificing style, all while delivering seamless, personalized experiences. Check in, request<br /> fresh towels,</p>
+                                <p className="mb-90">Prevalla Hotel is designed for those who appreciate simplicity, authenticity, and comfort. From cozy interiors to panoramic views, every detail reflects the natural beauty and peaceful rhythm of life in Prevalla.<br /></p>
                                 <div className="tp-about-4-client-wrap">
                                     <div className="tp-about-4-client-img mb-10">
                                         <Image src={user_img} alt="user" />

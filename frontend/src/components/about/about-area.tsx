@@ -13,9 +13,9 @@ export default function AboutArea() {
             <div className="row">
                <div className="col-lg-6 pt-115 pb-95">
                   <div className="tp-section-title-wrapper wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
-                     <h6 className="tp-section-title-pre-yellow tp-section-title-pre mb-5">Some Word About Us</h6>
-                     <h2 className="tp-section-title-white tp-section-title mb-60">Why Choose Us</h2>
-                     <p className="tp-section-title-content mb-50">Experience the ultimate convenience with a subway station located just moments from your doorstep.</p>
+                     <h6 className="tp-section-title-pre-yellow tp-section-title-pre mb-5">A Few Words About Us</h6>
+                     <h2 className="tp-section-title-white tp-section-title mb-60">Why Guests Love Staying With Us</h2>
+                     <p className="tp-section-title-content mb-50">Escape the city and reconnect with nature at Prevalla Hotel.</p>
                   </div>
                   <div className="row">
                      <div className="col-md-6 col-sm-6">
@@ -25,19 +25,19 @@ export default function AboutArea() {
                                  <span>
                                     <Beds />
                                  </span>
-                                 <p>Well Furnished Rooms</p>
+                                 <p>Cozy & comfortable mountain rooms</p>
                               </li>
                               <li>
                                  <span>
                                     <Parking />
                                  </span>
-                                 <p>Parking</p>
+                                 <p>Free private parking</p>
                               </li>
                               <li>
                                  <span>
                                     <Facing />
                                  </span>
-                                 <p>South Facing</p>
+                                 <p>Breathtaking natural surroundings</p>
                               </li>
                            </ul>
                         </div>
@@ -49,19 +49,19 @@ export default function AboutArea() {
                                  <span>
                                     <SwimmingPool />
                                  </span>
-                                 <p>Swimming Pool</p>
+                                 <p>Swimming Pool & SPA</p>
                               </li>
                               <li>
                                  <span>
                                     <SmartKey />
                                  </span>
-                                 <p>Smart Key</p>
+                                 <p>Ideal for nature & winter escapes</p>
                               </li>
                               <li>
                                  <span>
                                     <Breakfast />
                                  </span>
-                                 <p>Free Breakfast</p>
+                                 <p>Traditional breakfast options</p>
                               </li>
                            </ul>
                         </div>

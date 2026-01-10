@@ -19,10 +19,10 @@ const swiper_options: SwiperOptions = {
 }
 
 const slider_images = [
-    '/assets/img/hero/01.jpg',
-    '/assets/img/hero/02.jpg',
-    '/assets/img/hero/03.jpg',
-    '/assets/img/hero/04.jpg',
+    '/assets/img/hero/home3/1.jpg',
+    '/assets/img/hero/home3/2.jpg',
+    '/assets/img/hero/home3/3.jpg',
+    '/assets/img/hero/home3/4.jpg',
 ]
 
 export default function HeroBannerSlider() {

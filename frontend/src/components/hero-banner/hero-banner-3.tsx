@@ -1,6 +1,7 @@
 'use client'
 import Image from "next/image";
-import hero_and_img from '@/assets/img/hero/home3/and.png';
+import hero_and_img from '@/assets/img/hero/home3/and.jpg';
+
 import { DownArrow } from "../svg";
 
 
